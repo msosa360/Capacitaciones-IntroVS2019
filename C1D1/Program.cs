@@ -10,7 +10,7 @@ namespace C1D1
 
             for (int i = 0; i < 10; i++)
             {
-                Console.WriteLine("Hola a todos!");
+                Console.WriteLine($" {i} Hola a todos!");
             }
         }
     }
